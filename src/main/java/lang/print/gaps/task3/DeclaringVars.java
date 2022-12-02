@@ -4,11 +4,10 @@ public class DeclaringVars {
     public static void main(String[] args) {
         //write code here
 
-        int a = 1;
-        int b = 10;
-        int c = 100;
-        System.out.println(a);
-        System.out.println(b);
+        int a, b, c;
+        a = b = c = 10;
+
+
         System.out.println(c);
     }
 }

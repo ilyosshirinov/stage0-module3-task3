@@ -2,12 +2,12 @@ package lang.print.gaps.task3;
 
 public class BasicVariablesInitialization {
     public static void main(String[] args) {
-       int a=1;
-        int b=10;
-        int c=100;
-        System.out.println(a);
-        System.out.println(b);
-        System.out.println(c);
-        
+        int first = 1;
+        int second = 10;
+        int third = 100;
+        System.out.println(first);
+        System.out.println(second);
+        System.out.println(third);
+
     }
 }
